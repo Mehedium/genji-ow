@@ -1,0 +1,27 @@
+body{
+    background-color: cornsilk;
+}
+h1{
+font-size: 40px;
+color: blue;
+}
+h2{
+color: darkorange;
+font-size: 60px
+;
+}
+h2{
+color: aquamarine;
+}
+.big{
+font-size: 80px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.big.uppercase{
+color: blueviolet;
+}
+h1 span{
+color: brown; font-size: 40px;
+}
